@@ -1,5 +1,6 @@
 # Furry Game
 Simply game made as homework.
+Technologies: HTML5, CSS3, JavaScript, Webpack.
 
 ![Furry](images/furry_game.jpg)
 
